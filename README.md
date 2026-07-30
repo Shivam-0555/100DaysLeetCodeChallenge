@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +41,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0175-combine-two-tables](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0175-combine-two-tables) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0182-duplicate-emails) |
+## Hash Table
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+## Sliding Window
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 <!---LeetCode Topics End-->
