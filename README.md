@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 ## Binary Search
@@ -20,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -35,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
 ## Database
 |  |
@@ -62,4 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
