@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -96,4 +98,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
