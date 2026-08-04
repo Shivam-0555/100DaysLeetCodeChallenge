@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0001-two-sum) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
