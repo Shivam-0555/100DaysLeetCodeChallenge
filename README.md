@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 ## Database
 |  |
 | ------- |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0450-delete-node-in-a-bst](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 ## Sorting
 |  |
 | ------- |
