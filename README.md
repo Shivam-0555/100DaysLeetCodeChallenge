@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1517-find-users-with-valid-e-mails](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1517-find-users-with-valid-e-mails) |
 | [1965-employees-with-missing-information](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1965-employees-with-missing-information) |
 | [3436-find-valid-emails](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3436-find-valid-emails) |
+| [3570-find-books-with-no-available-copies](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3570-find-books-with-no-available-copies) |
 ## Hash Table
 |  |
 | ------- |
