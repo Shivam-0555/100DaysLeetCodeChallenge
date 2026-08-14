@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0607-sales-person) |
 | [0626-exchange-seats](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0626-exchange-seats) |
+| [1148-article-views-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1148-article-views-i) |
 | [1517-find-users-with-valid-e-mails](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1517-find-users-with-valid-e-mails) |
 | [1965-employees-with-missing-information](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1965-employees-with-missing-information) |
 | [3436-find-valid-emails](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3436-find-valid-emails) |
