@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1480-running-sum-of-1d-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1480-running-sum-of-1d-array) |
+| [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Binary Search
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0877-stone-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Tree
 |  |
 | ------- |
@@ -173,18 +175,22 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Game Theory
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0877-stone-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
+| [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 ## Design
 |  |
 | ------- |
@@ -210,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 ## Queue
 |  |
@@ -219,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
+## Nim Game
+|  |
+| ------- |
+| [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 <!---LeetCode Topics End-->
