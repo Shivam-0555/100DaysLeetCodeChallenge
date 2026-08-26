@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1927-sum-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2180-count-integers-with-even-digit-sum) |
 ## Tree
 |  |
 | ------- |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
+| [2180-count-integers-with-even-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 ## Counting
