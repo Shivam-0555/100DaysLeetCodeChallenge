@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0069-sqrtx](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
+| [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0168-excel-sheet-column-title](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0292-nim-game) |
 | [0877-stone-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -111,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0217-contains-duplicate](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0705-design-hashset](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
@@ -151,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0217-contains-duplicate](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -251,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0476-number-complement) |
 | [1009-complement-of-base-10-integer](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1009-complement-of-base-10-integer) |
 | [2351-first-letter-to-appear-twice](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2351-first-letter-to-appear-twice) |
