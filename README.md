@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0704-binary-search) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0705-design-hashset](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Linked List
@@ -279,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 <!---LeetCode Topics End-->
