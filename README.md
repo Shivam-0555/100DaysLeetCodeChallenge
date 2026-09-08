@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
+| [3870-count-commas-in-range](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3870-count-commas-in-range) |
 ## Tree
 |  |
 | ------- |
