@@ -203,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0520-detect-capital](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0520-detect-capital) |
+| [0844-backspace-string-compare](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0940-distinct-subsequences-ii](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0940-distinct-subsequences-ii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1927-sum-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
+| [0844-backspace-string-compare](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [2390-removing-stars-from-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
 ## Bracket Sequences
 |  |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0844-backspace-string-compare](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [1929-concatenation-of-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1929-concatenation-of-array) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2390-removing-stars-from-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2390-removing-stars-from-a-string) |
@@ -309,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0844-backspace-string-compare](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
