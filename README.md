@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+| [0836-rectangle-overlap](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1927-sum-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1927-sum-game) |
@@ -326,4 +327,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0835-image-overlap](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0835-image-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
