@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
+| [3524-find-x-value-of-array-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2029-stone-game-ix](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2029-stone-game-ix) |
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
+| [3524-find-x-value-of-array-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3870-count-commas-in-range) |
 ## Tree
 |  |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 ## Greedy
 |  |
 | ------- |
