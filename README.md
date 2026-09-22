@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3524-find-x-value-of-array-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2180-count-integers-with-even-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2180-count-integers-with-even-digit-sum) |
 | [2544-alternating-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
+| [3525-find-x-value-of-array-ii](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3870-count-commas-in-range](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3870-count-commas-in-range) |
 ## Tree
 |  |
@@ -363,4 +365,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
+## Segment Tree
+|  |
+| ------- |
+| [3525-find-x-value-of-array-ii](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 <!---LeetCode Topics End-->
