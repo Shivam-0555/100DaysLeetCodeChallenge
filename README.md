@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
 | [0069-sqrtx](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
 | [0231-power-of-two](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
@@ -246,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0198-house-robber](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0198-house-robber) |
 | [0410-split-array-largest-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0877-stone-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
@@ -380,4 +382,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
