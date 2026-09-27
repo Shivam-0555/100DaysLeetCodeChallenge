@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
+| [0633-sum-of-square-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0875-koko-eating-bananas) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0231-power-of-two](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0292-nim-game) |
+| [0633-sum-of-square-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0836-rectangle-overlap) |
 | [0877-stone-game](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0877-stone-game) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -360,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
+| [0633-sum-of-square-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Boyer–Moore Majority Vote Algorithm
