@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0009-palindrome-number) |
+| [0050-powx-n](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0168-excel-sheet-column-title) |
@@ -244,6 +245,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0002-add-two-numbers) |
+| [0050-powx-n](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0231-power-of-two) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## String
