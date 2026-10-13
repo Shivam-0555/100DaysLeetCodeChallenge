@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3525-find-x-value-of-array-ii](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 | [3903-smallest-stable-index-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
 ## Binary Search
@@ -241,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1051-height-checker](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1051-height-checker) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2248-intersection-of-multiple-arrays) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
 ## Linked List
 |  |
@@ -319,6 +321,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2333-minimum-sum-of-squared-difference](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Minimax
 |  |
 | ------- |
