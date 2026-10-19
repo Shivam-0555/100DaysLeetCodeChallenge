@@ -292,6 +292,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0301-remove-invalid-parentheses](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
+| [0481-magical-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0481-magical-string) |
 | [0520-detect-capital](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0520-detect-capital) |
 | [0678-valid-parenthesis-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
@@ -455,6 +456,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0344-reverse-string) |
+| [0481-magical-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0481-magical-string) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0633-sum-of-square-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0844-backspace-string-compare](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
