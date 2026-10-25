@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0540-single-element-in-a-sorted-array) |
 | [0643-maximum-average-subarray-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0643-maximum-average-subarray-i) |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0268-missing-number) |
 | [0387-first-unique-character-in-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0705-design-hashset](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0705-design-hashset) |
 | [0930-binary-subarrays-with-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0930-binary-subarrays-with-sum) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0094-binary-tree-inorder-traversal) |
+| [0496-next-greater-element-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 | [0678-valid-parenthesis-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0678-valid-parenthesis-string) |
 | [0844-backspace-string-compare](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0844-backspace-string-compare) |
 | [0856-score-of-parentheses](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0856-score-of-parentheses) |
@@ -558,4 +561,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
