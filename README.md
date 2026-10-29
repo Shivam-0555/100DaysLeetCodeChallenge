@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3731-find-missing-elements) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3903-smallest-stable-index-i) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0450-delete-node-in-a-bst) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0226-invert-binary-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0226-invert-binary-tree) |
 | [1254-number-of-closed-islands](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -264,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0191-number-of-1-bits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -336,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2409-count-days-spent-together](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3498-reverse-degree-of-a-string](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3498-reverse-degree-of-a-string) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ternary Search
 |  |
 | ------- |
@@ -465,6 +470,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Nim Game
 |  |
@@ -528,6 +534,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Newton's Method
 |  |
 | ------- |
@@ -559,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Pigeonhole Principle
 |  |
 | ------- |
