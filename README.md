@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-add-two-integers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2235-add-two-integers) |
 | [2409-count-days-spent-together](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2409-count-days-spent-together) |
 | [2544-alternating-digit-sum](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2544-alternating-digit-sum) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 | [3524-find-x-value-of-array-i](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3525-find-x-value-of-array-ii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2747-count-zero-request-servers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3505-minimum-operations-to-make-elements-within-k-subarrays-equal](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3505-minimum-operations-to-make-elements-within-k-subarrays-equal) |
 ## Prefix Sum
@@ -557,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3886-sum-of-sortable-integers](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3886-sum-of-sortable-integers) |
 ## Matrix
@@ -649,6 +653,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Shivam-0555/100DaysLeetCodeChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Graph Theory
 |  |
 | ------- |
